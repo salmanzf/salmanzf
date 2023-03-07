@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @salmanzf
 - 👀 I’m interested in Data & Machine Learning
-- 🌱 I’m currently learning SQL & Python
+- 🌱 I’m currently Creating Project with Data Analytics Tool, Python, and SQL
 - 💞️ I’m looking to collaborate on Data Exploration, Visual, or Cleaning
 - 📫 How to reach me salmanzf@ymail.com
 - My Tableau Profile: https://public.tableau.com/app/profile/salman.zahid.fathurrahman
